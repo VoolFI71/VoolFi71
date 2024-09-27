@@ -8,6 +8,7 @@
   <a href="https://t.me/voolfi71" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=VoolFi71&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Online-28a745?style=flat-square" alt="Status Badge"/>
 </div>
