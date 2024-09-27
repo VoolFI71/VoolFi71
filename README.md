@@ -29,3 +29,5 @@
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VoolFi71&theme=nightowl" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoolFi71&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
