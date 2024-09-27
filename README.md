@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/voolfi71" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088cc?style=flat-square&logo=telegram" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=VoolFi71&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Online-28a745?style=flat-square" alt="Status Badge"/>
