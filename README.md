@@ -3,6 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088cc?style=flat-square&logo=telegram&link=https://t.me/voolfi71" alt="Telegram Badge"/>
+  <a href="https://t.me/voolfi71">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088cc?style=flat-square&logo=telegram&link=https://t.me/voolfi71" alt="Telegram Badge"/>
+  </a>
 </div>
-
