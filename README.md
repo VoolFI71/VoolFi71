@@ -12,3 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=VoolFi71&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Online-28a745?style=flat-square" alt="Status Badge"/>
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
