@@ -20,6 +20,4 @@
 <div align="center">
   <h3>🔥 Статистика</h3>
   <img src="https://streak-stats.demolab.com/?user=VoolFi71&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoolFi71&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" alt="Top Langs" />
 </div>
